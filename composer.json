@@ -1,0 +1,12 @@
+{
+    "name": "mch/translations-plugin",
+    "type": "october-plugin",
+    "description": "MCH v2.0 - Translations Plugin",
+    "homepage": "https://minecraft-heads.com",
+    "authors": [
+        {
+            "name": "LordRazen",
+            "email": "razen.mailer@gmail.com"
+        }
+    ]
+}
