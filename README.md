@@ -23,5 +23,6 @@ The translations of the heads are ordered by occurrences, so the earlier they ap
 |---|---|---|---|
 |en|English|100%|---|
 |de|German|1.11%|LordRazen|
+|nl|Durch|0%|Daniya|
 
 Thank you to all the translators who contributed new translations and helped make the project accessible to more people around the world. ❤️
