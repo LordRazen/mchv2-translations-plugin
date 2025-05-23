@@ -21,8 +21,8 @@ The translations of the heads are ordered by occurrences, so the earlier they ap
 ## Supported languages
 ||Key|Language|Complete|Contributors|
 |---|---|---|---|---|
-|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="20"/>|en|English|100%|---|
-|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/de.svg" width="20"/>|de|German|1.11%|LordRazen|
-|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/nl.svg" width="20"/>|nl|Durch|0%|Daniya|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="20"/>|en|English| <div align="right">100%</div>|---|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/de.svg" width="20"/>|de|German| <div align="right">2%</div>|LordRazen|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/nl.svg" width="20"/>|nl|Dutch| <div align="right">0%</div>|Daniya|
 
 Thank you to all the translators who contributed new translations and helped make the project accessible to more people around the world. ❤️
