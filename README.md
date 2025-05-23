@@ -1,6 +1,6 @@
 ![Minecraft Heads Banner](https://images.minecraft-heads.com/banners/minecraft-heads_halfbanner_234x60.png)
 
-## Minecraft Heads v2.0 - Translations
+## Minecraft Heads v2.0 - API Translations
 The translations stored in this repository are used for the Minecraft Heads v2.0 API.
 
 
@@ -13,9 +13,18 @@ If you would like to make additions, please contact us before making a pullreque
 
 New languages are possible ofc. Just let us know so we can initiate it.
 
+## Workflow
+If you would like to contribute, clone the repository locally or download the file you would like to edit. 
+
+Start working on the translations.
+
 Using AI for translations is fine, but we welcome a human review, especially for tag and category names, to ensure accuracy.
 
-The translations of the heads are ordered by occurrences, so the earlier they appear in the file, the more important their accuracy.
+**Please only submit translations which you reviewed for accuracy.**
+
+The translations of the heads are ordered by occurrences, so the earlier they appear in the file, the more often they're used.
+
+If you downloaded the file instead of cloning the repository, please send us your changes in Discord, so we can implement them back in the repository.
 
 
 ## Supported languages
