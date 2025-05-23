@@ -1,4 +1,4 @@
-![Minecraft Heads Banner](https://images.minecraft-heads.com/banners/minecraft-heads.webp)
+![Minecraft Heads Banner](https://images.minecraft-heads.com/banners/minecraft-heads_halfbanner_234x60.png)
 
 ## Minecraft Heads v2.0 - Translations
 The translations stored in this repository are used for the Minecraft Heads v2.0 API.
