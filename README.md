@@ -13,7 +13,7 @@ If you would like to make additions, please contact us before making a pullreque
 
 New languages are possible ofc. Just let us know so we can initiate it.
 
-## Workflow
+## How to contribute?
 If you would like to contribute, clone the repository locally or download the file you would like to edit. 
 
 Start working on the translations.
