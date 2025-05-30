@@ -1,12 +1,12 @@
 {
-    "Alphabet": "",
-    "Animals": "",
-    "Blocks": "",
-    "Decoration": "",
-    "Food & Drinks": "",
-    "Humanoid": "",
-    "Humans": "",
-    "Miscellaneous": "",
-    "Monsters": "",
-    "Plants": ""
+    "Alphabet": "Alfabet",
+    "Animals": "Dieren",
+    "Blocks": "Blokken",
+    "Decoration": "Dekoratie",
+    "Food & Drinks": "Eten & Drinken",
+    "Humanoid": "Menselijk",
+    "Humans": "Mensen",
+    "Miscellaneous": "Overige",
+    "Monsters": "Monsters",
+    "Plants": "Planten"
 }
