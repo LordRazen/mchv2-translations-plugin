@@ -1,12 +1,12 @@
 {
-    "Alphabet": "",
-    "Animals": "",
-    "Blocks": "",
-    "Decoration": "",
-    "Food & Drinks": "",
-    "Humanoid": "",
-    "Humans": "",
-    "Miscellaneous": "",
-    "Monsters": "",
-    "Plants": ""
+  "Alphabet": "Алфавит",
+  "Animals": "Животные",
+  "Blocks": "Блоки",
+  "Decoration": "Декорации",
+  "Food & Drinks": "Еда и Напитки",
+  "Humanoid": "Гуманоиды",
+  "Humans": "Люди",
+  "Miscellaneous": "Разное",
+  "Monsters": "Монстры",
+  "Plants": "Растения"
 }
