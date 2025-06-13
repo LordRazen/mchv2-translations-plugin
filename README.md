@@ -22,17 +22,17 @@ Using AI for translations is fine, but we welcome a human review, especially for
 
 **Please only submit translations which you reviewed for accuracy.**
 
-The translations of the heads are ordered by occurrences, so the earlier they appear in the file, the more often they're used.
+The translations are sorted alphabetically and by translation status: translated items appear first, followed by the missing ones. This structure makes it easier to identify missing translations, and an algorithm will periodically re-sort them automatically.
 
 If you downloaded the file instead of cloning the repository, please send us your changes in Discord, so we can implement them back in the repository.
 
 
 ## Supported languages
-||Key|Language|Complete|Contributors|
-|---|---|---|---|---|
-|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="20"/>|en|English| <div align="right">100%</div>|---|
-|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/de.svg" width="20"/>|de|German| <div align="right">2%</div>|LordRazen|
-|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/nl.svg" width="20"/>|nl|Dutch| <div align="right">1%</div>|Daniya|
-|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ru.svg" width="20"/>|ru|Russian| <div align="right">0%</div>|Marjory|
+||Key|Language|Categories|Tags|Custom Heads|Contributors|
+|---|---|---|---|---|---|---|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="20"/>|en|English| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">100%</div>|---|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/de.svg" width="20"/>|de|German| <div align="right">100%</div>| <div align="right">91%</div>| <div align="right">0%</div>|LordRazen|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/nl.svg" width="20"/>|nl|Dutch| <div align="right">100%</div>| <div align="right">42%</div>| <div align="right">0%</div>|Daniya|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ru.svg" width="20"/>|ru|Russian| <div align="right">100%</div>| <div align="right">4%</div>| <div align="right">0%</div>|Marjory|
 
 Thank you to all the translators who contributed new translations and helped make the project accessible to more people around the world. ❤️
