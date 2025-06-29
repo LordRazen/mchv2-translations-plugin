@@ -14,26 +14,25 @@ If you would like to make additions, please contact us before making a pullreque
 New languages are possible ofc. Just let us know so we can initiate it.
 
 ## How to contribute?
-If you would like to contribute, clone the repository locally or download the file you would like to edit. 
+All missing translations are stored in the folder "lang_missing", ordered by frequency if it's for head titles.
 
-Start working on the translations.
+If you would like to contribute, clone the repository locally or download the file you would like to edit manually if you're not familir with Github. 
+
+Start working on the translations in the .xlsx files: Use the second column for your translations:
+
+![xlsx](assets/xlsx.png)
 
 Using AI for translations is fine, but we welcome a human review, especially for tag and category names, to ensure accuracy.
 
 **Please only submit translations which you reviewed for accuracy.**
 
-The translations are sorted alphabetically and by translation status: translated items appear first, followed by the missing ones. This structure makes it easier to identify missing translations, and an algorithm will periodically re-sort them automatically.
-
-If you downloaded the file instead of cloning the repository, please send us your changes in Discord, so we can implement them back in the repository.
+In order to add your contributions, commit the modified .xlsx files or send us the modified .xlsx files via Discord. We can implement them for you then.
 
 
 ## Supported languages
 ||Key|Language|Categories|Tags|Custom Heads|Contributors|
 |---|---|---|---|---|---|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="20"/>|en|English| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">100%</div>|---|
-|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/de.svg" width="20"/>|de|German| <div align="right">100%</div>| <div align="right">99%</div>| <div align="right">4%</div>|LordRazen|
-|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/nl.svg" width="20"/>|nl|Dutch| <div align="right">100%</div>| <div align="right">42%</div>| <div align="right">0%</div>|Daniya|
-|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/es.svg" width="20"/>|es|Spanish| <div align="right">0%</div>| <div align="right">0%</div>| <div align="right">0%</div>|Deepl|
-|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ru.svg" width="20"/>|ru|Russian| <div align="right">100%</div>| <div align="right">4%</div>| <div align="right">0%</div>|Marjory|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/de.svg" width="20"/>|de|German| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">0%</div>|LordRazen|
 
 Thank you to all the translators who contributed new translations and helped make the project accessible to more people around the world. ❤️
