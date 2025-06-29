@@ -14,7 +14,7 @@ If you would like to make additions, please contact us before making a pullreque
 New languages are possible ofc. Just let us know so we can initiate it.
 
 ## How to contribute?
-All missing translations are stored in the folder "lang_missing", ordered by frequency if it's for head titles.
+All missing translations are stored in the folder "lang_missing".
 
 If you would like to contribute, clone the repository locally or download the file you would like to edit manually if you're not familir with Github. 
 
