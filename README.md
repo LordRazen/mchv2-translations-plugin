@@ -32,7 +32,7 @@ In order to add your contributions, commit the modified .xlsx files or send us t
 ## Supported languages
 ||Key|Language|Categories|Tags|Custom Heads|Contributors|
 |---|---|---|---|---|---|---|
-|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="20"/>|en|English| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">100%</div>|---|
-|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/de.svg" width="20"/>|de|German| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">0%</div>|LordRazen|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="20"/>|en|English| <div align="right">100%</div>| <div align="right">100%</div>|---|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/de.svg" width="20"/>|de|German| <div align="right">100%</div>| <div align="right">99%</div>|LordRazen|
 
 Thank you to all the translators who contributed new translations and helped make the project accessible to more people around the world. ❤️
