@@ -31,9 +31,9 @@ If you downloaded the file instead of cloning the repository, please send us you
 ||Key|Language|Categories|Tags|Custom Heads|Contributors|
 |---|---|---|---|---|---|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="20"/>|en|English| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">100%</div>|---|
-|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/de.svg" width="20"/>|de|German| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">99%</div>|LordRazen|
-|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/nl.svg" width="20"/>|nl|Dutch| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">99%</div>|Daniya|
-|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/es.svg" width="20"/>|es|Spanish| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">99%</div>|Deepl|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/de.svg" width="20"/>|de|German| <div align="right">100%</div>| <div align="right">99%</div>| <div align="right">99%</div>|LordRazen|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/nl.svg" width="20"/>|nl|Dutch| <div align="right">100%</div>| <div align="right">99%</div>| <div align="right">99%</div>|Daniya|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/es.svg" width="20"/>|es|Spanish| <div align="right">100%</div>| <div align="right">99%</div>| <div align="right">99%</div>|Deepl|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ru.svg" width="20"/>|ru|Russian| <div align="right">100%</div>| <div align="right">4%</div>| <div align="right">0%</div>|Marjory|
 
 Thank you to all the translators who contributed new translations and helped make the project accessible to more people around the world. ❤️
