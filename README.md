@@ -43,10 +43,10 @@ We can implement them for you then.
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="20"/>|en|English| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">100%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/sa.svg" width="20"/>|ar|Arabic| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">99%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/bg.svg" width="20"/>|bg|Bulgarian| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">99%</div>|---|
-|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/cn.svg" width="20"/>|zh|Chinese (simplified)| <div align="right">100%</div>| <div align="right">0%</div>| <div align="right">99%</div>|---|
-|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/dk.svg" width="20"/>|da|Danish| <div align="right">100%</div>| <div align="right">0%</div>| <div align="right">0%</div>|---|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/cn.svg" width="20"/>|zh|Chinese (simplified)| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">99%</div>|---|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/dk.svg" width="20"/>|da|Danish| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">0%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/nl.svg" width="20"/>|nl|Dutch| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">99%</div>|Daniya|
-|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ee.svg" width="20"/>|et|Estonian| <div align="right">100%</div>| <div align="right">0%</div>| <div align="right">0%</div>|---|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ee.svg" width="20"/>|et|Estonian| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">0%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/fi.svg" width="20"/>|fi|Finnish| <div align="right">100%</div>| <div align="right">0%</div>| <div align="right">0%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/fr.svg" width="20"/>|fr|French| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">99%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/de.svg" width="20"/>|de|German| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">100%</div>|LordRazen|
