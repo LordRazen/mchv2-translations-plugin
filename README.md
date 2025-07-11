@@ -55,7 +55,7 @@ We can implement them for you then.
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/jp.svg" width="20"/>|ja|Japanese| <div align="right">100%</div>| <div align="right">100%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ru.svg" width="20"/>|ru|Russian| <div align="right">100%</div>| <div align="right">100%</div>|Marjory|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/es.svg" width="20"/>|es|Spanish| <div align="right">100%</div>| <div align="right">100%</div>|---|
-|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/se.svg" width="20"/>|sv|Swedish| <div align="right">100%</div>| <div align="right">2%</div>|---|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/se.svg" width="20"/>|sv|Swedish| <div align="right">100%</div>| <div align="right">100%</div>|---|
 
 Thank you to all the translators who contributed new translations and helped make the project accessible to more people around the world. ❤️
 
