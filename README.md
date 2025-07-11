@@ -52,12 +52,12 @@ We can implement them for you then.
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/de.svg" width="20"/>|de|German| <div align="right">100%</div>| <div align="right">100%</div>|LordRazen|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gr.svg" width="20"/>|el|Greek| <div align="right">100%</div>| <div align="right">100%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/hu.svg" width="20"/>|hu|Hungarian| <div align="right">100%</div>| <div align="right">100%</div>|---|
-|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/id.svg" width="20"/>|id|Indonesian| <div align="right">100%</div>| <div align="right">0%</div>|---|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/id.svg" width="20"/>|id|Indonesian| <div align="right">100%</div>| <div align="right">100%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/it.svg" width="20"/>|it|Italian| <div align="right">100%</div>| <div align="right">100%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/jp.svg" width="20"/>|ja|Japanese| <div align="right">100%</div>| <div align="right">100%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/kr.svg" width="20"/>|ko|Korean| <div align="right">100%</div>| <div align="right">100%</div>|---|
-|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/lv.svg" width="20"/>|lv|Latvian| <div align="right">100%</div>| <div align="right">0%</div>|---|
-|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/lt.svg" width="20"/>|lt|Lithuanian| <div align="right">100%</div>| <div align="right">0%</div>|---|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/lv.svg" width="20"/>|lv|Latvian| <div align="right">100%</div>| <div align="right">100%</div>|---|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/lt.svg" width="20"/>|lt|Lithuanian| <div align="right">100%</div>| <div align="right">100%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/no.svg" width="20"/>|no|Norwegian| <div align="right">100%</div>| <div align="right">100%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/pl.svg" width="20"/>|pl|Polish| <div align="right">100%</div>| <div align="right">100%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/pt.svg" width="20"/>|pt|Portuguese| <div align="right">100%</div>| <div align="right">100%</div>|Pastel de N4ta|
