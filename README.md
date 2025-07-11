@@ -40,8 +40,18 @@ We can implement them for you then.
 ## Supported languages
 ||Key|Language|Categories|Tags|Custom Heads|Contributors|
 |---|---|---|---|---|---|---|
-|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="20"/>|en|English| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">100%</div>|---|
-|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/de.svg" width="20"/>|de|German| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">99%</div>|LordRazen|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="20"/>|en|English| <div align="right">100%</div>| <div align="right">100%</div>|---|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/sa.svg" width="20"/>|ar|Arabic| <div align="right">100%</div>| <div align="right">100%</div>|---|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/bg.svg" width="20"/>|bg|Bulgarian| <div align="right">100%</div>| <div align="right">100%</div>|---|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/cn.svg" width="20"/>|zh|Chinese (simplified)| <div align="right">100%</div>| <div align="right">100%</div>|---|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/dk.svg" width="20"/>|da|Danish| <div align="right">100%</div>| <div align="right">100%</div>|---|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/nl.svg" width="20"/>|nl|Dutch| <div align="right">100%</div>| <div align="right">100%</div>|Daniya|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ee.svg" width="20"/>|et|Estonian| <div align="right">100%</div>| <div align="right">100%</div>|---|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/fr.svg" width="20"/>|fr|French| <div align="right">100%</div>| <div align="right">100%</div>|---|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/de.svg" width="20"/>|de|German| <div align="right">100%</div>| <div align="right">100%</div>|LordRazen|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/it.svg" width="20"/>|it|Italian| <div align="right">100%</div>| <div align="right">100%</div>|---|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ru.svg" width="20"/>|ru|Russian| <div align="right">100%</div>| <div align="right">100%</div>|Marjory|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/es.svg" width="20"/>|es|Spanish| <div align="right">100%</div>| <div align="right">100%</div>|---|
 
 Thank you to all the translators who contributed new translations and helped make the project accessible to more people around the world. ❤️
 
