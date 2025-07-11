@@ -61,11 +61,11 @@ We can implement them for you then.
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/lt.svg" width="20"/>|lt|Lithuanian| <div align="right">100%</div>| <div align="right">0%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/no.svg" width="20"/>|no|Norwegian| <div align="right">100%</div>| <div align="right">0%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/pl.svg" width="20"/>|pl|Polish| <div align="right">100%</div>| <div align="right">0%</div>|---|
-|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/pt.svg" width="20"/>|pt|Portuguese| <div align="right">100%</div>| <div align="right">0%</div>|Pastel de N4ta|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/pt.svg" width="20"/>|pt|Portuguese| <div align="right">100%</div>| <div align="right">3%</div>|Pastel de N4ta|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ro.svg" width="20"/>|ro|Romanian| <div align="right">100%</div>| <div align="right">0%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ru.svg" width="20"/>|ru|Russian| <div align="right">100%</div>| <div align="right">100%</div>|Marjory|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/sk.svg" width="20"/>|sk|Slovak| <div align="right">100%</div>| <div align="right">0%</div>|---|
-|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/si.svg" width="20"/>|sl|Slovenian| <div align="right">100%</div>| <div align="right">0%</div>|---|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/si.svg" width="20"/>|sl|Slovenian| <div align="right">100%</div>| <div align="right">1%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/es.svg" width="20"/>|es|Spanish| <div align="right">100%</div>| <div align="right">100%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/se.svg" width="20"/>|sv|Swedish| <div align="right">100%</div>| <div align="right">100%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/tr.svg" width="20"/>|tr|Turkish| <div align="right">100%</div>| <div align="right">0%</div>|---|
