@@ -61,7 +61,7 @@ We can implement them for you then.
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/lt.svg" width="20"/>|lt|Lithuanian| <div align="right">100%</div>| <div align="right">0%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/no.svg" width="20"/>|no|Norwegian| <div align="right">100%</div>| <div align="right">0%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/pl.svg" width="20"/>|pl|Polish| <div align="right">100%</div>| <div align="right">0%</div>|---|
-|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/pt.svg" width="20"/>|pt|Portuguese| <div align="right">100%</div>| <div align="right">3%</div>|Pastel de N4ta|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/pt.svg" width="20"/>|pt|Portuguese| <div align="right">100%</div>| <div align="right">100%</div>|Pastel de N4ta|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ro.svg" width="20"/>|ro|Romanian| <div align="right">100%</div>| <div align="right">0%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ru.svg" width="20"/>|ru|Russian| <div align="right">100%</div>| <div align="right">100%</div>|Marjory|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/sk.svg" width="20"/>|sk|Slovak| <div align="right">100%</div>| <div align="right">0%</div>|---|
