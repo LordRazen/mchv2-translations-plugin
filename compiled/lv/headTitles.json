@@ -408,6 +408,7 @@
     "Adventure Nightmare Fredbear": "Piedzīvojumu murgs Fredbear",
     "Adventure Nightmare Freddy": "Piedzīvojumu murgs Fredijs",
     "Adventure Nightmarionne": "Piedzīvojums Nightmarionne",
+    "Adventure Phantom Balloon Boy": "Piedzīvojumu Phantom Balloon Boy",
     "Adventure Phantom Chica": "Piedzīvojumu Fantom Chica",
     "Adventure Phantom Foxy": "Piedzīvojumu fantoms Foxy",
     "Adventure Phantom Freddy": "Piedzīvojumu fantoms Fredijs",
@@ -425,7 +426,6 @@
     "Adventure Withered Chica": "Piedzīvojumu nosusinātā Chica",
     "Adventure Withered Foxy": "Piedzīvojumu piedzīvojums Nosusinātā lapsa",
     "Adventure Withered Freddy": "Piedzīvojumu piedzīvojums Nosusinātais Freddy",
-    "Adveture Phantom Balloon Boy": "Adveture Phantom Balloon Boy",
     "Adzuki Bean": "Adzuki Bean",
     "AED": "AED",
     "AED (automated external defibrilator)": "AED (automātiskais ārējais defibrilators)",
@@ -21775,6 +21775,7 @@
     "Husbandry Trophy": "Saimniekošanas trofeja",
     "Husk": "Sēnalas",
     "Husk (grayed)": "Korķis (pelēks)",
+    "Husk Alex": "Sēkla Alekss",
     "Husk Bear": "Lāčplēves lācis",
     "Husk King": "Lusku karalis",
     "Husk Knight": "Lapsas bruņinieks",
@@ -50582,5 +50583,6 @@
     "Åland Islands": "Ālandu salas",
     "Érezée": "Érezée",
     "Île-de-France": "Île-de-France",
+    "Adveture Phantom Balloon Boy": "Adveture Phantom Balloon Boy",
     "1": "1"
 }

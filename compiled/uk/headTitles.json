@@ -408,6 +408,7 @@
     "Adventure Nightmare Fredbear": "Кошмарні пригоди Ведмедика Фредді",
     "Adventure Nightmare Freddy": "Кошмарні пригоди Фредді",
     "Adventure Nightmarionne": "Пригода Кошмарниця",
+    "Adventure Phantom Balloon Boy": "Пригода Примарний хлопчик на повітряній кулі",
     "Adventure Phantom Chica": "Пригода Примарна Чіка",
     "Adventure Phantom Foxy": "Пригода Привид Лисички",
     "Adventure Phantom Freddy": "Пригода Привид Фредді",
@@ -425,7 +426,6 @@
     "Adventure Withered Chica": "Пригода Зів'яла Чіка",
     "Adventure Withered Foxy": "Пригода Зів'яла Лисичка",
     "Adventure Withered Freddy": "Пригода Зів'ялий Фредді",
-    "Adveture Phantom Balloon Boy": "Адвенчур Примарний Хлопчик з Повітряною Кулькою",
     "Adzuki Bean": "Адзукі Бін",
     "AED": "АЗД",
     "AED (automated external defibrilator)": "АЗД (автоматичний зовнішній дефібрилятор)",
@@ -21775,6 +21775,7 @@
     "Husbandry Trophy": "Золотий трофей",
     "Husk": "Лушпиння",
     "Husk (grayed)": "Лушпиння (сіре)",
+    "Husk Alex": "Хаск Алекс",
     "Husk Bear": "Лушпиння Ведмідь",
     "Husk King": "Король лушпиння",
     "Husk Knight": "Лицар лушпиння",
@@ -50582,5 +50583,6 @@
     "Åland Islands": "Аландські острови",
     "Érezée": "Ерезе",
     "Île-de-France": "Оль-де-Франс",
+    "Adveture Phantom Balloon Boy": "Адвенчур Примарний Хлопчик з Повітряною Кулькою",
     "1": "1"
 }
