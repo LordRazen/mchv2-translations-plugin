@@ -1,4 +1,4 @@
-![Minecraft Heads Banner](assets/xlsx.png)
+![Minecraft Heads Banner](assets/banner.webp)
 
 ## Minecraft Heads v2.0 - API Translations
 The translations stored in this repository are used for the Minecraft Heads v2.0 API.
