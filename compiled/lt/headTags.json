@@ -320,7 +320,6 @@
     "Faeria": "Faeria",
     "Fairy Tail": "Pasakų uodega",
     "Fairy Tales": "Pasakos",
-    "Fall Drop": "Rudens kritimas",
     "Fall Guys": "Rudens vaikinai",
     "Fallout": "Fallout",
     "Family Guy": "Šeimos vaikinas",
@@ -1040,6 +1039,7 @@
     "The Boys": "Berniukai",
     "The Cat Returns": "Katė grįžta",
     "The Conjuring": "Užkalbėjimas (angl. The Conjuring)",
+    "The Copper Age": "Vario amžius",
     "The Emperor's New Groove": "Imperatoriaus naujasis bruzdesys",
     "The English Ensemble Stars": "Anglų ansamblio žvaigždės",
     "The Fairly OddParents": "\"The Fairly OddParents",
@@ -1168,5 +1168,6 @@
     "Zodiac Sign": "Zodiako ženklas",
     "Zombie": "Zombie",
     "Zombie (Vanilla)": "Zombis (vanilė)",
-    "Zootopia": "Zootopija"
+    "Zootopia": "Zootopija",
+    "Fall Drop": "Rudens kritimas"
 }

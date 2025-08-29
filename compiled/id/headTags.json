@@ -320,7 +320,6 @@
     "Faeria": "Faeria",
     "Fairy Tail": "Ekor Peri",
     "Fairy Tales": "Dongeng",
-    "Fall Drop": "Fall Drop",
     "Fall Guys": "Fall Guys",
     "Fallout": "Kejatuhan",
     "Family Guy": "Family Guy",
@@ -1040,6 +1039,7 @@
     "The Boys": "The Boys",
     "The Cat Returns": "Kucing Kembali",
     "The Conjuring": "The Conjuring",
+    "The Copper Age": "Zaman Tembaga",
     "The Emperor's New Groove": "Alur Baru Sang Kaisar",
     "The English Ensemble Stars": "Bintang Ensemble Inggris",
     "The Fairly OddParents": "Orang Tua yang Cukup Ganjil",
@@ -1168,5 +1168,6 @@
     "Zodiac Sign": "Zodiak",
     "Zombie": "Zombie",
     "Zombie (Vanilla)": "Zombie (Vanilla)",
-    "Zootopia": "Zootopia"
+    "Zootopia": "Zootopia",
+    "Fall Drop": "Fall Drop"
 }

@@ -320,7 +320,6 @@
     "Faeria": "Faeria",
     "Fairy Tail": "Fairy Tail",
     "Fairy Tales": "Eventyr",
-    "Fall Drop": "Fall Drop",
     "Fall Guys": "Fall Guys",
     "Fallout": "Fallout",
     "Family Guy": "Family Guy",
@@ -1040,6 +1039,7 @@
     "The Boys": "Guttene",
     "The Cat Returns": "Katten vender tilbake",
     "The Conjuring": "The Conjuring",
+    "The Copper Age": "Kobberalderen",
     "The Emperor's New Groove": "Keiserens nye groove",
     "The English Ensemble Stars": "Det engelske ensemblets stjerner",
     "The Fairly OddParents": "The Fairly OddParents",
@@ -1168,5 +1168,6 @@
     "Zodiac Sign": "Stjernetegn",
     "Zombie": "Zombie",
     "Zombie (Vanilla)": "Zombie (vanilje)",
-    "Zootopia": "Zootopia"
+    "Zootopia": "Zootopia",
+    "Fall Drop": "Fall Drop"
 }

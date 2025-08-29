@@ -320,7 +320,6 @@
     "Faeria": "フェリア",
     "Fairy Tail": "フェアリーテイル",
     "Fairy Tales": "おとぎ話",
-    "Fall Drop": "フォール・ドロップ",
     "Fall Guys": "フォール・ガイズ",
     "Fallout": "フォールアウト",
     "Family Guy": "ファミリー・ガイ",
@@ -1040,6 +1039,7 @@
     "The Boys": "ザ・ボーイズ",
     "The Cat Returns": "猫の恩返し",
     "The Conjuring": "コンジャリング",
+    "The Copper Age": "銅器時代",
     "The Emperor's New Groove": "皇帝の新しいグルーヴ",
     "The English Ensemble Stars": "イングリッシュ・アンサンブル・スター",
     "The Fairly OddParents": "フェアリー・オッドペアレンツ",
@@ -1168,5 +1168,6 @@
     "Zodiac Sign": "星座",
     "Zombie": "ゾンビ",
     "Zombie (Vanilla)": "ゾンビ（バニラ）",
-    "Zootopia": "ズートピア"
+    "Zootopia": "ズートピア",
+    "Fall Drop": "フォール・ドロップ"
 }

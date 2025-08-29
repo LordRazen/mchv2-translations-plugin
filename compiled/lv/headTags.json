@@ -320,7 +320,6 @@
     "Faeria": "Faeria",
     "Fairy Tail": "Pasaku astes",
     "Fairy Tales": "Pasakas",
-    "Fall Drop": "Rudens kritums",
     "Fall Guys": "Rudens puiši",
     "Fallout": "Fallout",
     "Family Guy": "Ģimenes puisis",
@@ -1040,6 +1039,7 @@
     "The Boys": "Zēni",
     "The Cat Returns": "Kaķis atgriežas",
     "The Conjuring": "The Conjuring",
+    "The Copper Age": "Vara laikmets",
     "The Emperor's New Groove": "Imperatora jaunais rievojums (The Emperor's New Groove)",
     "The English Ensemble Stars": "Angļu ansambļa zvaigznes",
     "The Fairly OddParents": "The Fairly OddParents",
@@ -1168,5 +1168,6 @@
     "Zodiac Sign": "Zodiaka zīme",
     "Zombie": "Zombiju",
     "Zombie (Vanilla)": "Zombijs (vaniļas)",
-    "Zootopia": "Zootopija"
+    "Zootopia": "Zootopija",
+    "Fall Drop": "Rudens kritums"
 }

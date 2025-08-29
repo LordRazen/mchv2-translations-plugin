@@ -320,7 +320,6 @@
     "Faeria": "Феєрія.",
     "Fairy Tail": "Казковий Хвіст",
     "Fairy Tales": "Казки",
-    "Fall Drop": "Fall Drop",
     "Fall Guys": "Осінні хлопці",
     "Fallout": "Опади",
     "Family Guy": "Гріффіни.",
@@ -1040,6 +1039,7 @@
     "The Boys": "Хлопці",
     "The Cat Returns": "Кіт повертається",
     "The Conjuring": "The Conjuring",
+    "The Copper Age": "Мідний вік",
     "The Emperor's New Groove": "Новий стиль імператора",
     "The English Ensemble Stars": "Зірки англійського ансамблю",
     "The Fairly OddParents": "The Fairly OddParents",
@@ -1168,5 +1168,6 @@
     "Zodiac Sign": "Знак зодіаку",
     "Zombie": "Зомбі.",
     "Zombie (Vanilla)": "Зомбі (ванільний)",
-    "Zootopia": "Зоотопія"
+    "Zootopia": "Зоотопія",
+    "Fall Drop": "Fall Drop"
 }

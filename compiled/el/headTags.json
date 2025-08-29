@@ -320,7 +320,6 @@
     "Faeria": "Faeria",
     "Fairy Tail": "Fairy Tail",
     "Fairy Tales": "Fairy Tales",
-    "Fall Drop": "Fall Drop",
     "Fall Guys": "Fall Guys",
     "Fallout": "Fallout",
     "Family Guy": "Family Guy",
@@ -1040,6 +1039,7 @@
     "The Boys": "Τα αγόρια",
     "The Cat Returns": "Η γάτα επιστρέφει",
     "The Conjuring": "Το Conjuring",
+    "The Copper Age": "Η εποχή του χαλκού",
     "The Emperor's New Groove": "Το νέο αυλάκι του αυτοκράτορα",
     "The English Ensemble Stars": "Οι πρωταγωνιστές του αγγλικού Ensemble",
     "The Fairly OddParents": "The Fairly OddParents",
@@ -1168,5 +1168,6 @@
     "Zodiac Sign": "Ζώδιο",
     "Zombie": "Ζόμπι",
     "Zombie (Vanilla)": "Ζόμπι (βανίλια)",
-    "Zootopia": "Zootopia"
+    "Zootopia": "Zootopia",
+    "Fall Drop": "Fall Drop"
 }
