@@ -65,7 +65,7 @@ We can implement them for you then.
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ru.svg" width="20"/>|ru|Russian| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">99%</div>|Marjory|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/sk.svg" width="20"/>|sk|Slovak| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">99%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/si.svg" width="20"/>|sl|Slovenian| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">99%</div>|---|
-|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/es.svg" width="20"/>|es|Spanish| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">99%</div>|---|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/es.svg" width="20"/>|es|Spanish| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">100%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/se.svg" width="20"/>|sv|Swedish| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">99%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/tr.svg" width="20"/>|tr|Turkish| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">99%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ua.svg" width="20"/>|uk|Ukrainian| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">99%</div>|---|
