@@ -581,7 +581,7 @@
     "Hypixel (Fandom)": "ハイピクセル（ファンダム）",
     "Hypixel (Gear)": "ハイピクセル（ギア）",
     "Hypixel (Minion)": "ハイピクセル（ミニオン）",
-    "Hypixel (Mutations) Tag": "ハイピクセル（突然変異）タグ",
+    "Hypixel (Mutations)": "ハイピクセル（突然変異）",
     "Hypixel (NPC)": "ハイピクセル（NPC）",
     "Hypixel (Pets)": "ハイピクセル（ペット）",
     "Hypixel (Reforge Stone)": "ハイピクセル（リフォージ・ストーン）",
@@ -1173,5 +1173,6 @@
     "Zombie": "ゾンビ",
     "Zombie (Vanilla)": "ゾンビ（バニラ）",
     "Zootopia": "ズートピア",
+    "Hypixel (Mutations) Tag": "ハイピクセル（突然変異）タグ",
     "Fall Drop": "フォール・ドロップ"
 }

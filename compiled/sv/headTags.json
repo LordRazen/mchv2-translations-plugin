@@ -581,7 +581,7 @@
     "Hypixel (Fandom)": "Hypixel (Fandom)",
     "Hypixel (Gear)": "Hypixel (växel)",
     "Hypixel (Minion)": "Hypixel (Minion)",
-    "Hypixel (Mutations) Tag": "Hypixel (Mutationer) Tagg",
+    "Hypixel (Mutations)": "Hypixel (Mutationer)",
     "Hypixel (NPC)": "Hypixel (NPC)",
     "Hypixel (Pets)": "Hypixel (Husdjur)",
     "Hypixel (Reforge Stone)": "Hypixel (Reforge Stone)",
@@ -1173,5 +1173,6 @@
     "Zombie": "Zombie",
     "Zombie (Vanilla)": "Zombie (Vanilj)",
     "Zootopia": "Zootopia",
+    "Hypixel (Mutations) Tag": "Hypixel (Mutationer) Tagg",
     "Fall Drop": "Fall Drop"
 }

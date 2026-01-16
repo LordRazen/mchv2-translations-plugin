@@ -581,7 +581,7 @@
     "Hypixel (Fandom)": "하이픽셀(팬덤)",
     "Hypixel (Gear)": "하이픽셀(기어)",
     "Hypixel (Minion)": "하이픽셀(미니언)",
-    "Hypixel (Mutations) Tag": "하이픽셀(돌연변이) 태그",
+    "Hypixel (Mutations)": "하이픽셀(돌연변이)",
     "Hypixel (NPC)": "하이픽셀(NPC)",
     "Hypixel (Pets)": "하이픽셀(애완동물)",
     "Hypixel (Reforge Stone)": "하이픽셀 (재련석)",
@@ -1173,5 +1173,6 @@
     "Zombie": "좀비",
     "Zombie (Vanilla)": "좀비 (바닐라)",
     "Zootopia": "주토피아",
+    "Hypixel (Mutations) Tag": "하이픽셀(돌연변이) 태그",
     "Fall Drop": "가을 낙하"
 }
