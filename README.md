@@ -41,7 +41,7 @@ We can implement them for you then.
 ||Key|Language|Categories|Tags|Custom Heads|Contributors|
 |---|---|---|---|---|---|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="20"/>|en|English| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">100%</div>|---|
-|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/sa.svg" width="20"/>|ar|Arabic| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">99%</div>|---|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/sa.svg" width="20"/>|ar|Arabic| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">98%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/bg.svg" width="20"/>|bg|Bulgarian| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">99%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/cn.svg" width="20"/>|zh|Chinese (simplified)| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">100%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/dk.svg" width="20"/>|da|Danish| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">100%</div>|---|
@@ -67,7 +67,7 @@ We can implement them for you then.
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/si.svg" width="20"/>|sl|Slovenian| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">100%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/es.svg" width="20"/>|es|Spanish| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">100%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/se.svg" width="20"/>|sv|Swedish| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">100%</div>|---|
-|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/tr.svg" width="20"/>|tr|Turkish| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">99%</div>|---|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/tr.svg" width="20"/>|tr|Turkish| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">100%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ua.svg" width="20"/>|uk|Ukrainian| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">99%</div>|---|
 
 Thank you to all the translators who contributed new translations and helped make the project accessible to more people around the world. ❤️
