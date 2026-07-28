@@ -48,12 +48,12 @@ We can implement them for you then.
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/nl.svg" width="20"/>|nl|Dutch| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">99%</div>|Daniya|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ee.svg" width="20"/>|et|Estonian| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">99%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/fi.svg" width="20"/>|fi|Finnish| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">99%</div>|---|
-|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/fr.svg" width="20"/>|fr|French| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">99%</div>|---|
-|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/de.svg" width="20"/>|de|German| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">99%</div>|LordRazen|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/fr.svg" width="20"/>|fr|French| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">100%</div>|---|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/de.svg" width="20"/>|de|German| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">100%</div>|LordRazen|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gr.svg" width="20"/>|el|Greek| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">99%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/hu.svg" width="20"/>|hu|Hungarian| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">99%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/id.svg" width="20"/>|id|Indonesian| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">99%</div>|---|
-|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/it.svg" width="20"/>|it|Italian| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">99%</div>|---|
+|<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/it.svg" width="20"/>|it|Italian| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">100%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/jp.svg" width="20"/>|ja|Japanese| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">99%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/kr.svg" width="20"/>|ko|Korean| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">99%</div>|---|
 |<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/lv.svg" width="20"/>|lv|Latvian| <div align="right">100%</div>| <div align="right">100%</div>| <div align="right">99%</div>|---|
